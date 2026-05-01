@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "apps.todolist",
     "apps.users",
     "rest_framework",
+    'import_export',
     
 ]
 
